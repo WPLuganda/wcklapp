@@ -1,0 +1,128 @@
+{
+  "jsonID": "ced3482",
+  "data": [
+    {
+      "events": [
+        {
+          "id": 2223,
+          "title": "WordCamp Kampala",
+          "date": "23rd-26th Nov",
+          "sessions": [
+            {
+              "id": 222,
+              "title": "Some title",
+              "content": "Some text",
+              "speaker": "",
+              "sessionImage": ""
+            },
+            {
+              "id": 223,
+              "title": "Some title",
+              "content": "Some text",
+              "speaker": "",
+              "sessionImage": ""
+            }
+          ]
+        },
+        {
+          "id": 2223,
+          "title": "WordPress Meetup Kampala Jan",
+          "date": "3 Jan 2018",
+          "sessions": [
+            {
+              "id": 22221,
+              "title": "Some title",
+              "content": "Some text",
+              "speaker": "",
+              "sessionImage": ""
+            }
+          ]
+        }
+      ],
+      "sponsors": [
+        {
+          "id": 317,
+          "title": "KANZU SUPPORT DESK",
+          "content": "<h1 id=\"kanzu-support-desk-title\">YOUR <span class=\"kanzu-blue\">WORDPRESS HELPDESK</span></h1>\n<p><span class=\"kanzu-blue\">Great customer care</span> is at the heart of every good product or service. Delivering it as a small business can be a challenge. It takes a lot to manage your website&#8217;s chat, keep track of all those emails and respond to tweets &amp; posts all while making sure nothing slips. <span class=\"kanzu-blue\">Kanzu Support Desk</span> makes it easier to work as a team and track your conversations with your customers across various channels. Built for WordPress by the platform&#8217;s experts, it fits into your WordPress interface like a hand in a snug glove so you can get a lot done intuitively</p>\n",
+          "sponsor_image": "",
+          "sponsor_website": "https://kanzucode.com/",
+          "sponsor_level": "Microsponsor"
+        },
+        {
+          "id": 26,
+          "title": "Bluehost",
+          "content": "<p><a href=\"https://www.bluehost.com/\">Bluehost</a> has been a WordPress partner since 2005 and powers over 1 million WordPress sites worldwide. Their objective is to help customers, whether novice or pro, create a thriving online presence at an affordable price. With a team of in-house tech experts available 24/7, Bluehost dedicates time and resources to providing the best support and services in the industry. Join millions of other site owners and see what Bluehost can do for you and your online presence.</p>\n",
+          "sponsor_image": "",
+          "sponsor_website": "https://www.bluehost.com/",
+          "sponsor_level": "gold"
+        },
+        {
+          "id": 24,
+          "title": "GoDaddy",
+          "content": "<p>GoDaddy Pro offers a robust suite of free tools to web developers &amp; designers to help them save time managing all their clients and sites. With GoDaddy Pro, you can easily shop for your client, monitor their sites, and manage all their WordPress websites from one place. Exclusive time-saving tools let you update WordPress core, plugins and themes with one click, as well as automate WordPress backups, cloning and migrations. Get real-time performance, security and uptime monitoring across all your websites. Additionally, your free membership includes advanced 24/7 technical support.</p>\n<p>When you pair GoDaddy Pro with GoDaddy hosting products, the benefits are even greater.</p>\n<p><a href=\"https://www.godaddy.com/pro?utm_source=wcg18&amp;utm_medium=advocacy&amp;utm_campaign=en-us_pro_advocacy_base\" target=\"_blank\" rel=\"noopener\">Check out the Free Tools</a></p>\n",
+          "sponsor_image": "",
+          "sponsor_website": "https://www.godaddy.com/pro",
+          "sponsor_level": "silver"
+        },
+        {
+          "id": 22,
+          "title": "Jetpack",
+          "content": "<p>Transform how you work with your WordPress sites and rest easy knowing they’re always firing on all cylinders. Jetpack connects your site to the global services, community, and support provided by WordPress.com so you can focus on the stuff that matters.</p>\n<p>Jetpack automatically shields your site from the unwanted attention of spammers, hackers, and malware, while real-time sync and backup means you don’t have to worry about data loss. Straightforward traffic-building tools help you attract the attention of readers and search engines. Pages and videos are delivered at high speed from a global, ad-free content delivery network.</p>\n<p>With Jetpack’s Affiliate program you can earn 20% for every sale of Jetpack to your customers and clients. And with unlimited referrals, the sky’s the limit! Refer as many clients and contacts as you can, and get paid for every sale you generate.</p>\n<p>Make your site work for you. Get your Jetpack today at <a href=\"http://jetpack.com\">Jetpack.com</a></p>\n",
+          "sponsor_image": 262,
+          "sponsor_website": "https://jetpack.com/",
+          "sponsor_level": "gold"
+        },
+        {
+          "id": 20,
+          "title": "WooCommerce",
+          "content": "<p>28% of all online stores are powered by WooCommerce. Built on WordPress, WooCommerce is a fully customizable, open source eCommerce solution.</p>\n<ul>\n<li><a href=\"https://wordpress.org/plugins/woocommerce/stats/\">3+ million active installations</a></li>\n<li>34+ million downloads</li>\n<li>450+ extensions to add functionality</li>\n</ul>\n<p>Whether you’re selling a few handcrafted items to a niche market, taking an existing business online, or going global with an enterprise level eCommerce business – WooCommerce will get you set up and selling fast and scale securely as you grow. Plus your content will be forever yours and customizable down to the finest button color.</p>\n<p>Developed and supported by a distributed team, WooCommerce is powered by Automattic, the creators of WordPress.com.</p>\n",
+          "sponsor_image": 263,
+          "template": "",
+          "sponsor_level": "gold"
+        }
+      ],
+      "news": [
+        {
+          "id": 6,
+          "date": "2018-07-26T14:47:35",
+          "title": "Call for Volunteers",
+          "author": 15585179,
+          "featured_media": 0,
+          "linkURL": "",
+          "content": "<p>Kindly fill this form to send your application as a volunteer.</p>",
+          "excerpt": "<p>Kindly fill this form to send your application as a volunteer.</p>"
+        },
+        {
+          "id": 5,
+          "date": "2018-07-26T14:46:36",
+          "title": "Call for Speakers",
+          "author": 15585179,
+          "linkURL": "",
+          "featured_media": 0,
+          "content": "<p>Are you a WordPress developer, blogger or SEO expert. Take a chance at being one of the 30 advanced WordPress users who will be the topical speakers on the three day WordCamp Kampala 2018.</p>\n<p>If you&#8217;d like to propose multiple topics, please submit the form multiple times, once for each topic.</p>\n<p><div class=\"wcfd-disabled-form\"><div id=\"wcorg-login-message\" class=\"message\">\n<p>Before submitting your speaker proposal, please <a href=\"https://wordcamp.org/wp-login.php?redirect_to=https%3A%2F%2F2018.kampala.wordcamp.org%2F2018%2F07%2F26%2Fcall-for-speakers%2F\">log in to WordCamp.org</a> using your Word<em><strong>Press</strong></em>.org account*.</p> \n<p>\nIf you don&#8217;t have an account, <a href=\"https://wordpress.org/support/register.php?redirect_to=https%3A%2F%2Fwordcamp.org%2Fwp-login.php%3Fredirect_to%3Dhttps%253A%252F%252F2018.kampala.wordcamp.org%252F2018%252F07%252F26%252Fcall-for-speakers%252F\">please create one</a>.</p>\n\n<p id=\"not-your-personal-site\">\n* This is your account for <a href=\"https://wordpress.org/\">the official WordPress.org website</a>, rather than your personal WordPress site.</p>\n</div><div class=\"wcfd-overlay\"></div> <div id='contact-form-5'>\n<form action='https://2018.kampala.wordcamp.org/2018/07/26/call-for-speakers/#contact-form-5' method='post' class='contact-form commentsblock'>\n<br />\n\n<div>\n\t\t<label for='g5-name' class='grunion-field-label name'>Name<span>(required)</span></label>\n\t\t<input type='text' name='g5-name' id='g5-name' value='' class='name'  required aria-required='true'/>\n\t</div>\n<br />\n\n<div>\n\t\t<label for='g5-emailaddress' class='grunion-field-label email'>Email Address<span>(required)</span></label>\n\t\t<input type='email' name='g5-emailaddress' id='g5-emailaddress' value='' class='email'  required aria-required='true'/>\n\t</div>\n<br />\n\n<div>\n\t\t<label for='g5-wordpress-orgusername' class='grunion-field-label text'>WordPress.org Username<span>(required)</span></label>\n\t\t<input type='text' name='g5-wordpress-orgusername' id='g5-wordpress-orgusername' value='' class='text'  required aria-required='true'/>\n\t</div>\n<br />\n\n<div>\n\t\t<label for='contact-form-comment-g5-yourbio' class='grunion-field-label textarea'>Your Bio<span>(required)</span></label>\n\t\t<textarea name='g5-yourbio' id='contact-form-comment-g5-yourbio' rows='20' class='textarea'  required aria-required='true'></textarea>\n\t</div>\n<br />\n\n<div>\n\t\t<label for='g5-topictitle' class='grunion-field-label text'>Topic Title<span>(required)</span></label>\n\t\t<input type='text' name='g5-topictitle' id='g5-topictitle' value='' class='text'  required aria-required='true'/>\n\t</div>\n<br />\n\n<div>\n\t\t<label for='contact-form-comment-g5-topicdescription' class='grunion-field-label textarea'>Topic Description<span>(required)</span></label>\n\t\t<textarea name='g5-topicdescription' id='contact-form-comment-g5-topicdescription' rows='20' class='textarea'  required aria-required='true'></textarea>\n\t</div>\n<br />\n\n<div>\n\t\t<label for='g5-intendedaudience' class='grunion-field-label text'>Intended Audience<span>(required)</span></label>\n\t\t<input type='text' name='g5-intendedaudience' id='g5-intendedaudience' value='' class='text'  required aria-required='true'/>\n\t</div>\n<br />\n\n<div>\n\t\t<label for='contact-form-comment-g5-pastspeakingexperiencenotnecessarytoapply' class='grunion-field-label textarea'>Past Speaking Experience (not necessary to apply)</label>\n\t\t<textarea name='g5-pastspeakingexperiencenotnecessarytoapply' id='contact-form-comment-g5-pastspeakingexperiencenotnecessarytoapply' rows='20' class='textarea'  ></textarea>\n\t</div>\n<br />\n\t<p class='contact-submit'>\n\t\t<input type='submit' value='Submit &#187;' class='pushbutton-wide'/>\n\t\t<input type='hidden' name='contact-form-id' value='5' />\n\t\t<input type='hidden' name='action' value='grunion-contact-form' />\n\t\t<input type='hidden' name='contact-form-hash' value='fdd48f2ca8f8ca759ceb3f38b8dc80890579d93a' />\n\t</p>\n</form>\n</div></div></p>\n",
+          "excerpt": "<p>Are you a WordPress developer, blogger or SEO expert. Take a chance at being one of the 30 advanced WordPress users who will be the topical speakers on the three day WordCamp Kampala 2018. If you&#8217;d like to propose multiple topics, please submit the form multiple times, once for each topic.</p>\n"
+        },
+        {
+          "id": 4,
+          "date": "2018-07-26T14:43:29",
+          "title": "Call for Sponsors",
+          "author": 15585179,
+          "linkURL": "",
+          "featured_media": 0,
+          "content": "<p>Don't miss out. Be part of the vibrant Kampala WordPress Community in Celebrating the second ever WordCamp this November 2018. Kindly fill the form below to apply as a sponsor to reach the thousands of the WordPress Users in Kampala and Uganda&#8230;</p>\n<div id='contact-form-4'>\n<form action='https://2018.kampala.wordcamp.org/2018/07/26/call-for-sponsors/#contact-form-4' method='post' class='contact-form commentsblock'>\n<br />\n\n<div>\n\t\t<label for='g4-contactname' class='grunion-field-label text'>Contact Name<span>(required)</span></label>\n\t\t<input type='text' name='g4-contactname' id='g4-contactname' value='' class='text'  required aria-required='true'/>\n\t</div>\n<br />\n\n<div>\n\t\t<label for='g4-companyname' class='grunion-field-label name'>Company Name<span>(required)</span></label>\n\t\t<input type='text' name='g4-companyname' id='g4-companyname' value='' class='name'  required aria-required='true'/>\n\t</div>\n<br />\n\n<div>\n\t\t<label for='g4-email' class='grunion-field-label email'>Email<span>(required)</span></label>\n\t\t<input type='email' name='g4-email' id='g4-email' value='' class='email'  required aria-required='true'/>\n\t</div>\n<br />\n\n<div>\n\t\t<label for='g4-phonenumber' class='grunion-field-label text'>Phone Number</label>\n\t\t<input type='text' name='g4-phonenumber' id='g4-phonenumber' value='' class='text'  />\n\t</div>\n<br />\n\n<div>\n\t\t<label for='g4-sponsorshiplevel' class='grunion-field-label text'>Sponsorship Level</label>\n\t\t<input type='text' name='g4-sponsorshiplevel' id='g4-sponsorshiplevel' value='' class='text'  />\n\t</div>\n<br />\n\n<div>\n\t\t<label for='contact-form-comment-g4-whywouldyouliketosponsorwordcamp' class='grunion-field-label textarea'>Why Would you Like to Sponsor WordCamp?<span>(required)</span></label>\n\t\t<textarea name='g4-whywouldyouliketosponsorwordcamp' id='contact-form-comment-g4-whywouldyouliketosponsorwordcamp' rows='20' class='textarea'  required aria-required='true'></textarea>\n\t</div>\n<br />\n\n<div>\n\t\t<label for='contact-form-comment-g4-questionscomments' class='grunion-field-label textarea'>Questions / Comments</label>\n\t\t<textarea name='g4-questionscomments' id='contact-form-comment-g4-questionscomments' rows='20' class='textarea'  ></textarea>\n\t</div>\n<br />\n\t<p class='contact-submit'>\n\t\t<input type='submit' value='Submit &#187;' class='pushbutton-wide'/>\n\t\t<input type='hidden' name='contact-form-id' value='4' />\n\t\t<input type='hidden' name='action' value='grunion-contact-form' />\n\t\t<input type='hidden' name='contact-form-hash' value='d5d9ad6d3fa5266f41d7342d79ea6428dc39f7e0' />\n\t</p>\n</form>\n</div>\n",
+          "excerpt": "<p>Dint miss out. Be part of the vibrant Kampala WordPress Community in Celebrating the second ever WordCamp this November 2018. Kindly fill the form below to apply as a sponsor to reach the thousands of the WordPress Users in Kampala and Uganda&#8230;</p>\n"
+        },
+        {
+          "id": 3,
+          "date": "2018-06-11T11:19:09",
+          "title": "Welcome to WordCamp Kampala",
+          "author": 15585179,
+          "linkURL": "",
+          "featured_media": 0,
+          "content": "<p><em>Organizers note:</em> Please update the portions <span style=\"color: red;text-decoration: underline\">with red text</span>.</p>\n<p>We&#8217;re happy to announce that <span style=\"color: red;text-decoration: underline\">WordCamp YourCityName</span> is officially on the calendar!</p>\n<p><span style=\"color: red;text-decoration: underline\">WordCamp YourCityName</span> will be <span style=\"color: red;text-decoration: underline\">DATE(S)</span> at <span style=\"color: red;text-decoration: underline\">LOCATION</span>.</p>\n<p><span style=\"color: red;text-decoration: underline\">Subscribe using the form in the sidebar</span> to stay up to date on the most recent news. We’ll be keeping you posted on all the details over the coming months, including speaker submissions, ticket sales and more!</p>\n",
+          "excerpt": "<p>Organizers note: Please update the portions with red text. We&#8217;re happy to announce that WordCamp YourCityName is officially on the calendar! WordCamp YourCityName will be DATE(S) at LOCATION. Subscribe using the form in the sidebar to stay up to date on the most recent news. We’ll be keeping you posted on all the details over [&hellip;]</p>\n"
+        }
+      ]
+    }
+  ]
+}
