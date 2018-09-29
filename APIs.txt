@@ -1,0 +1,7 @@
+// https://2018.kampala.wordcamp.org/wp-json/wp/v2/speakers
+// https://2018.kampala.wordcamp.org/wp-json/wp/v2/pages
+// https://2018.kampala.wordcamp.org/wp-json/wp/v2/sessions
+
+Done
+// https://2018.kampala.wordcamp.org/wp-json/wp/v2/posts
+// https://2018.kampala.wordcamp.org/wp-json/wp/v2/sponsors
