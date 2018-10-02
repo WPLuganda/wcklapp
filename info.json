@@ -4,29 +4,85 @@
       "events": [
         {
           "id": 2223,
-          "title": "WordCamp Kampala",
-          "date": "23rd-26th Nov",
+          "eventTitle": "WordCamp Kampala",
+          "eventdate": "23rd-26th Nov",
           "sessions": [
             {
-              "id": 222,
-              "title": "Some title",
-              "content": "Some text",
-              "speaker": "",
-              "sessionImage": ""
+            "id": 335,
+            "link": "https://2018.kampala.wordcamp.org/session/why-use-wordpress-to-establish-scale-and-sustain-your-business-enterprise/",
+            "title": "Why use WordPress to establish, scale and sustain your business enterprise?",
+            "content": "<p>If you are an employer you may ponder about the favorable tools to deploy in your business while on minimalist budgets regardless of the business stage and size but guaranteed of growth. If you&#8217;re an employee you may have to propose suitable tools in the business to contribute a step towards its next stage.</p>\n<p>As much as we use financial poverty as an excuse for stunted growth in business or complete business failure, I would like to borrow your attention and convince you that your business struggles are largely dependent on your potential to make informed decisions.</p>\n<p>How do you decide whether WordPress is the right or wrong tool for your business.</p>\n<p>At the end of the session the audience will be able;<br />\n&#8211; To know some facts about WordPress.<br />\n&#8211; To know the various problems WordPress solves.<br />\n&#8211; To be in a better position to choose WordPress for their business.<br />\n&#8211; To know where to find helpful information in case they are stack.<br />\n&#8211; To know the various local companies and freelancers who provide WordPress services such as SEO, Web hosting, Maintenance, Development and Writing.<br />\n&#8211; To slightly understand the WordPress core ecosystem.</p>\n",
+            "speakers": "https://2018.kampala.wordcamp.org/wp-json/wp/v2/speakers/334"
+          },
+            {
+            "id": 341,
+            "link": "https://2018.kampala.wordcamp.org/session/the-power-of-mental-toughness-in-content-generation/",
+            "title": "The Power of Mental Toughness in Content Generation",
+            "content": "<p>To serve the world with our craft, we need to offer deep, helpful, instructional and inspirational content that will transform the thinking of our people. Being offered this platform on wordpress is a wonderful opportunity.<br />\nHow might we do this? The answer is through Mental Toughness.</p>\n",
+            "author": "https://2018.kampala.wordcamp.org/wp-json/wp/v2/users/16398728"
+          },
+            {
+            "id": 349,
+            "link": "https://2018.kampala.wordcamp.org/session/how-to-start-a-blog-with-wordpress-and-make-money-online-in-uganda/",
+            "title": "How to Start a blog with WordPress and make money online in Uganda",
+            "content": "<p>With this topic , i would love to share a personal experience of how i started blogging and started making a living out of it .</p>\n<p>The topic will involve a real life case study from a beginners perceptive of how i grew my blog from 11m rank to 400K alexa rank .</p>\n<p>I will also give much focus on how to make a passive income while running a blog in Uganda .</p>\n",
+            "speakers": "https://2018.kampala.wordcamp.org/wp-json/wp/v2/speakers/348"
             },
             {
-              "id": 223,
-              "title": "Some title",
-              "content": "Some text",
-              "speaker": "",
-              "sessionImage": ""
-            }
-          ]
+            "id": 359,
+            "link": "https://2018.kampala.wordcamp.org/session/wordpress-load-speed-optimization-to-better-user-experience/",
+            "title": "WordPress Load Speed Optimization &#8211; To Better User Experience.",
+            "content": "<p>Most WordPress users and webmasters don&#8217;t usually consider or know the importance of Site Load Times and PageSpeed but as the world and technology advances; faster internet, faster computers and phones makes Website speed one of the most important requirements of any website.</p>\n<p>There are quite a lot of ways to Optimize PageSpeed for WordPress which include Caching,Image Optimization, Compression, Image to Text Ratio, Deleting Unused Content and Using CDNs Like Cloudflare.</p>\n",
+            "speakers": "https://2018.kampala.wordcamp.org/wp-json/wp/v2/speakers/358"
+            },
+            {
+            "id": 363,
+            "link": "https://2018.kampala.wordcamp.org/session/developing-and-deploying-wordpress-with-docker/",
+            "title": "Developing and Deploying wordpress with Docker",
+            "content": "<p>I have been using Docker for years. Recently a friend asked me to help them deploy WordPress. I don&#8217;t have much experience with WordPress but I think a lot of WP developers might benefit from the ability to develop and deploy using Docker containers.</p>\n<p>In this talk, I&#8217;ll discuss the following topics;<br />\n&#8211; What is Docker?<br />\n&#8211; Why use Docker?<br />\n&#8211; Setting up Docker on Linux, Max, and Windows<br />\n&#8211; Running WordPress locally with Docker<br />\n&#8211; Deploying wordpress with Docker</p>\n",
+            "speakers": "https://2018.kampala.wordcamp.org/wp-json/wp/v2/speakers/362"
+          },
+            {
+            "id": 366,
+            "link": "https://2018.kampala.wordcamp.org/session/amp-lify-your-wordpress-website-with-google-amp-in-2019/",
+            "title": "AMP-lify your WordPress website with Google AMP in 2019",
+            "content": "<p>Website speed matters. How often have you hit the back button yourself on your mobile phone because you were waiting&#8230; and waiting&#8230;. and waiting for a website to load?<br />\nWith mobile searches outnumbering desktop searches in 2018, it is no wonder Google has intensified the &lt;a href=&#8217;https://www.ampproject.org/&#8217;AMP project. In this session, we shall take a look at what AMP exactly is, why you may want it for your WordPress website, how to set up AMP on your WordPress site, and how to check to make sure AMP is implemented properly.</p>\n",
+            "speakers": "https://2018.kampala.wordcamp.org/wp-json/wp/v2/speakers/365"
+          },
+            {
+            "id": 369,
+            "link": "https://2018.kampala.wordcamp.org/session/cyber-threats-data-privacy/",
+            "title": "Cyber Threats &amp; Data Privacy",
+            "content": "<p>Most of the Blogs and Data systems are vulnerable to cyber attacks and preventing cyber-attacks is one thing, mitigating their effects is another—both aspects, among others, must be considered in creating a comprehensive cyber-security governance model with CMS. With cyber-criminals constantly reinventing themselves, developers need to keep your defences up-to-date.</p>\n",
+            "speakers": "https://2018.kampala.wordcamp.org/wp-json/wp/v2/speakers/368"
+          },
+            {
+            "id": 372,
+            "link": "https://2018.kampala.wordcamp.org/session/building-wordpress-sites-blogs-testing-for-mobile-friendliness/",
+            "title": "Building WordPress Sites/Blogs &amp; Testing For Mobile-Friendliness",
+            "content": "<p>Creating site/blogs in WordPress and testing to see if they are mobile-friendly or not, why your site/blog needs to be mobile-friendly, tips on making your site/blog mobile-friendly, stats on mobile-friendly sites/blogs on the internet globally, etc</p>\n",
+            "speakers": "https://2018.kampala.wordcamp.org/wp-json/wp/v2/speakers/371"
+          },
+            {
+            "id": 374,
+            "link": "https://2018.kampala.wordcamp.org/session/how-to-redirect-users-to-random-blog-articles/",
+            "title": "How to Redirect Users to Random Blog Articles",
+            "content": "<p>How to redirect users to past articles using a plugin, redirect query parameters, etc.</p>\n",
+            "speakers": "https://2018.kampala.wordcamp.org/wp-json/wp/v2/speakers/371"
+            },
+            {
+            "id": 377,
+            "link": "https://2018.kampala.wordcamp.org/session/wordpress-site-security/",
+            "title": "WORDPRESS SITE SECURITY",
+            "content": "<p>How to secure your WordPress Site</p>\n<p>CASE STUDY: USE OF WORDFENCE</p>\n<p>What is Wordfence?</p>\n<p>Wordfence is a WordPress security plugin that helps you protect your website against security threats like hacking, malware, DDOS and brute force attacks.<br />\nIt comes with a website application firewall, which filters all traffic to your website and blocks suspicious requests.<br />\n• How it Protects Your WordPress Site?<br />\n• How to Install and Setup Wordfence in WordPress<br />\n• Scanning Your WordPress Site Using Wordfence<br />\n• Setting up Wordfence Firewall<br />\n• Monitoring and Blocking Suspicious Activity Using Wordfence<br />\n• Advanced Settings and Tools in Wordfence</p>\n",
+            "speakers": "https://2018.kampala.wordcamp.org/wp-json/wp/v2/speakers/376"
+          }
+        ]
         },
         {
           "id": 2223,
-          "title": "WordPress Meetup Kampala Jan",
-          "date": "3 Jan 2018",
+          "eventTitle": "WordPress Meetup Kampala Jan",
+          "eventdate": "3 Jan 2018",
           "sessions": [
             {
               "id": 22221,
@@ -121,6 +177,210 @@
           "content": "<p><em>Organizers note:</em> Please update the portions <span style=\"color: red;text-decoration: underline\">with red text</span>.</p>\n<p>We&#8217;re happy to announce that <span style=\"color: red;text-decoration: underline\">WordCamp YourCityName</span> is officially on the calendar!</p>\n<p><span style=\"color: red;text-decoration: underline\">WordCamp YourCityName</span> will be <span style=\"color: red;text-decoration: underline\">DATE(S)</span> at <span style=\"color: red;text-decoration: underline\">LOCATION</span>.</p>\n<p><span style=\"color: red;text-decoration: underline\">Subscribe using the form in the sidebar</span> to stay up to date on the most recent news. We’ll be keeping you posted on all the details over the coming months, including speaker submissions, ticket sales and more!</p>\n",
           "excerpt": "<p>Organizers note: Please update the portions with red text. We&#8217;re happy to announce that WordCamp YourCityName is officially on the calendar! WordCamp YourCityName will be DATE(S) at LOCATION. Subscribe using the form in the sidebar to stay up to date on the most recent news. We’ll be keeping you posted on all the details over [&hellip;]</p>\n"
         }
+      ],
+      "speakers": [
+        {
+        "id": 365,
+        "title": {
+        "rendered": "Mukalele Rogers",
+        "content": "<p>An information technologies specialist with great experience and skills in ICT training, programming, systems administration, networking, web systems development and web hosting.<br />\nA webhost manager at Center For Web Presence . Running a personal website powered by WordPress, JetPack and WooCommerce. WordPress user since 2015.</p>\n",
+        "author": 7694169,
+        "avatar_urls": {
+        "24": "https://secure.gravatar.com/avatar/bffd955d636ea6500c3a04cc7a181bdb?s=24&d=mm&r=g",
+        "48": "https://secure.gravatar.com/avatar/bffd955d636ea6500c3a04cc7a181bdb?s=48&d=mm&r=g",
+        "96": "https://secure.gravatar.com/avatar/bffd955d636ea6500c3a04cc7a181bdb?s=96&d=mm&r=g"
+        },
+        "href": "https://2018.kampala.wordcamp.org/wp-json/wp/v2/speakers/365",
+        "sessions": [
+        {
+        "embeddable": true,
+        "href": "https://2018.kampala.wordcamp.org/wp-json/wp/v2/sessions/366"
+        },
+        {
+        "embeddable": true,
+        "href": "https://2018.kampala.wordcamp.org/wp-json/wp/v2/sessions/380"
+        }
       ]
-    }
+      }
+      },
+      {
+        "id": 358,
+        "title": "Mukiibi Mackson",
+        "content": "<p>Hey, Am a freelance Web &amp; Graphics Designer, Website Backend Administrator, WordPress Expert and Workout Enthusiast who just loves solving tech problems, WorkingOut and sharing knowledge with people who need it, hence my youtube channel where i create solutions for problems i face in my day to day freelance work.</p>\n",
+        "author": 7694169,
+        "avatar_urls": {
+        "24": "https://secure.gravatar.com/avatar/c089c929d746401b769f588429b4e941?s=24&d=mm&r=g",
+        "48": "https://secure.gravatar.com/avatar/c089c929d746401b769f588429b4e941?s=48&d=mm&r=g",
+        "96": "https://secure.gravatar.com/avatar/c089c929d746401b769f588429b4e941?s=96&d=mm&r=g"
+        },
+        "sessions": [
+        {
+        "embeddable": true,
+        "href": "https://2018.kampala.wordcamp.org/wp-json/wp/v2/sessions/359"
+        }
+        ]
+      },
+        {
+        "id": 348,
+        "title": "martin tumusiime",
+        "content": "<p>Hello My name is Martin Tumusiime a mobile app developer and blogger with over 3 years of experience .</p>\n<p>During my life as a tech blogger with ugtechmag , i have learnt a lot about wordpress and this has totally shaped my career in blogging and digital Marketing .</p>\n<p>I have started a dozen of blogs with wordpress during the last three years and am always glad to share my experience .</p>\n",
+        "author": 7694169,
+        "avatar_urls": {
+        "24": "https://secure.gravatar.com/avatar/be4235f3364ede2347b7def362f93f74?s=24&d=mm&r=g",
+        "48": "https://secure.gravatar.com/avatar/be4235f3364ede2347b7def362f93f74?s=48&d=mm&r=g",
+        "96": "https://secure.gravatar.com/avatar/be4235f3364ede2347b7def362f93f74?s=96&d=mm&r=g"
+        },
+        "sessions": [
+        {
+        "embeddable": true,
+        "href": "https://2018.kampala.wordcamp.org/wp-json/wp/v2/sessions/349"
+        }
+        ],
+        "wp:attachment": [
+        {
+        "href": "https://2018.kampala.wordcamp.org/wp-json/wp/v2/media?parent=348"
+        }
+        ]
+      
+        },
+        {
+        "id": 340,
+        "title": "Lawrence Namale",
+        "content": "<p>Hi! My Name is Lawrence Namale, I am a Life Coach, Author and Keynote Speaker.</p>\n<p>What that means is that I am loaded with a message (not messages), but a message of hope, direction and purpose for individual lives across the globe. The message is simple: I believe that every last one of us is valuable, was meant to be valuable in their lifespan here on earth. Every last one!</p>\n<p>My mission is to awaken us to the boundless possibilities available in life, especially to the multiplied millions who are shrinking back from making a difference, because they feel unworthy to contribute. My mandate is to help bring to reality every single person who knows deep down in their gut that they are better than what they are experiencing, and are actually telling themselves “hey, look, there has got to be more to life than this!”.</p>\n",
+        "author": 7694169,
+        "avatar_urls": {
+        "24": "https://secure.gravatar.com/avatar/eeebb3e1e5a5d1e32ce280c11931a6a4?s=24&d=mm&r=g",
+        "48": "https://secure.gravatar.com/avatar/eeebb3e1e5a5d1e32ce280c11931a6a4?s=48&d=mm&r=g",
+        "96": "https://secure.gravatar.com/avatar/eeebb3e1e5a5d1e32ce280c11931a6a4?s=96&d=mm&r=g"
+        },
+        "sessions": [
+        {
+        "embeddable": true,
+        "href": "https://2018.kampala.wordcamp.org/wp-json/wp/v2/sessions/341"
+        }
+        ]
+        },
+        {
+        "id": 368,
+        "title": "Nixon Kamugisha",
+        "content": "<p>Nixon Kamugisha is a graduate of Computer Science at Uganda Christian University, and is now Assistant Network &amp; Infrastructure Engineer with University ICT Services (UIS) at Uganda Christian University. He&#8217;s a CMS Designer and a Blogger for Schools, Charity and Organizational websites.</p>\n",
+        "author": 7694169,
+        "avatar_urls": {
+        "24": "https://secure.gravatar.com/avatar/6ea209fd35f87c79b818409f155da262?s=24&d=mm&r=g",
+        "48": "https://secure.gravatar.com/avatar/6ea209fd35f87c79b818409f155da262?s=48&d=mm&r=g",
+        "96": "https://secure.gravatar.com/avatar/6ea209fd35f87c79b818409f155da262?s=96&d=mm&r=g"
+        },
+        "sessions": [
+        {
+        "embeddable": true,
+        "href": "https://2018.kampala.wordcamp.org/wp-json/wp/v2/sessions/369"
+        }
+        ]
+        },
+        {
+        "id": 371,
+        "title": {
+        "rendered": "julius masaba",
+        "content": "<p>I am Julius Masaba.<br />\nI come from a business advisory (finance/accounting) background with passion for digital marketing. I have been using WordPress for the last 3 years.<br />\nI blog as well as help others create free-plan WordPress sites/blogs.<br />\nAm an aspiring digital marketing enthusiast.</p>\n",
+        "author": 7694169,
+        "avatar_urls": {
+        "24": "https://secure.gravatar.com/avatar/e17a5293163131d4514512bdbea96e79?s=24&d=mm&r=g",
+        "48": "https://secure.gravatar.com/avatar/e17a5293163131d4514512bdbea96e79?s=48&d=mm&r=g",
+        "96": "https://secure.gravatar.com/avatar/e17a5293163131d4514512bdbea96e79?s=96&d=mm&r=g"
+        },
+        "sessions": [
+        {
+        "embeddable": true,
+        "href": "https://2018.kampala.wordcamp.org/wp-json/wp/v2/sessions/372"
+        },
+        {
+        "embeddable": true,
+        "href": "https://2018.kampala.wordcamp.org/wp-json/wp/v2/sessions/374"
+        }
+      ]}},
+        {
+        "id": 376,
+        "title": "Marvin Alinaitwe",
+        "content": "<p>A proud son of the Pearl of Africa and charismatic leader, Marvin Alinaitwe is an exuberant WordPress developer. Together with his long time business partner Mr. Shafiq Lutaaya, he co-founded the PoTUS Times website ( www.potustimes.com) which covers the President of the United States and Capitol Hill.<br />\nMarvin pursed a Bachelor’s degree in Information Science of Makerere University and is due for graduation in January 2019. Back in 2016 while he was the Speaker of the College of Computing and Information Sciences at Makerere University, He bore the idea of The Future is Now a student-based Organization/Movement which helped create a platform for all young people especially the girl-child who had dream of becoming tech-entrepreneurs easily transform their dreams into reality through providing them with information and a platform relevant to releasing their dreams. Marvin is currently the CEO of Save Mother Nature a non-profit organization that champions environmental conservation and protection through advocating for the use of clean and renewable energy<br />\nMarvin within his circles of friends and partners has been lucky to be among the few who have earned a living building WordPress websites for companies, individuals and organizations among others. He greatly appreciates the contribution of WordPress which has been and still is a concrete foundation for the success of millions of developers all over the world.<br />\nHe is a strong advocate for the right to Free and uncensored Information access, freedoms of free speech and expression and Intellectual Property Rights. Over the years, he has developed ardent interest in Data and Information Security, Women Rights and Freedoms of Marginalized persons in society.<br />\nMarvin is an outgoing person who when not busy with work spends time engaging his peers on issues of personal and national development, doing charity, sports and adventure with family.</p>\n",
+        "author": 7694169,
+        "avatar_urls": {
+        "24": "https://secure.gravatar.com/avatar/9d7bedb55c25ac94fae33b59dff5ead1?s=24&d=mm&r=g",
+        "48": "https://secure.gravatar.com/avatar/9d7bedb55c25ac94fae33b59dff5ead1?s=48&d=mm&r=g",
+        "96": "https://secure.gravatar.com/avatar/9d7bedb55c25ac94fae33b59dff5ead1?s=96&d=mm&r=g"
+        },
+        "sessions": [
+        {
+        "embeddable": true,
+        "href": "https://2018.kampala.wordcamp.org/wp-json/wp/v2/sessions/377"
+        }
+        ]
+        },
+        {
+        "id": 334,
+        "title": "David M. Wampamba",
+        "content": "<p>David M. Wampamba is a Ugandan tech enthusiast, businessman, entrepreneur, software developer and seasonal DevOps.</p>\n<p>He works at Gagawala Graphics Limited a creative agency which offers printing, web hosting and digital marketing services. Based at Mirembe Arcade, Nasser Road, Kampala.</p>\n<p>And works at Ablestate which offers bootcamp and stack based developer training to transform the ordinary into outstanding software developers, at Beach house, Ggaba, next to Kampala University.</p>\n<p>David is using WordPress since 2015 and has gained great experience at customizing it by making in house plugins and themes.</p>\n",
+        "author": 7694169,
+        "avatar_urls": {
+        "24": "https://secure.gravatar.com/avatar/a188f8c8ba768686baaac61edd4b7908?s=24&d=mm&r=g",
+        "48": "https://secure.gravatar.com/avatar/a188f8c8ba768686baaac61edd4b7908?s=48&d=mm&r=g",
+        "96": "https://secure.gravatar.com/avatar/a188f8c8ba768686baaac61edd4b7908?s=96&d=mm&r=g"
+        },
+        "sessions": [
+        {
+        "embeddable": true,
+        "href": "https://2018.kampala.wordcamp.org/wp-json/wp/v2/sessions/335"
+        }
+        ]
+        
+        },
+        {
+        "id": 274,
+        "title": "Lutaaya Shafiq",
+        "content": "<p>Lutaaya Shafiq is an experienced WordPress developer and PHP enthusiast who is the co-founder of the PoTUS Times website ( www.potustimes.com) which covers the President of the United States and Capitol Hill. Shafiq holds a Bachelor’s degree in Computer Science from Makerere University, and he is currently pursuing a Master of Science degree in Information Systems at Makerere University.<br />\nShafiq has been lucky to be among the few who have earned a living building WordPress websites for companies, individuals and organisations among others. He is proud to say that he stumbled upon WordPress way back in 2011 when he was starting his Software development career where he started out as an HTML / CSS developer before he could land on the platform that powers more than 31% of the webs systems that run on the internet- WordPress. He believes that access to the internet is every human’s right and that any entity that has no web presence will not exist in business in the next couple of decades. He has keen interest in Industrial Systems Engineering, Machine Learning, Knowledge Service Engineering and Human Computer Interaction.<br />\nWhen Shafiq is not glued to a computer screen, he spends time meeting friends, family, travelling and most importantly playing chess.</p>\n",
+        "author": 7694169,
+        "avatar_urls": {
+        "24": "https://secure.gravatar.com/avatar/b82e0f3d56e9e7b53be7ced0c8402f7c?s=24&d=mm&r=g",
+        "48": "https://secure.gravatar.com/avatar/b82e0f3d56e9e7b53be7ced0c8402f7c?s=48&d=mm&r=g",
+        "96": "https://secure.gravatar.com/avatar/b82e0f3d56e9e7b53be7ced0c8402f7c?s=96&d=mm&r=g"
+        },
+        "sessions": [
+        {
+        "embeddable": true,
+        "href": "https://2018.kampala.wordcamp.org/wp-json/wp/v2/sessions/275"
+        }
+        ]
+      
+        },
+        {
+        "id": 279,
+        "title": "Laurence Bahiirwa",
+        "content": "<p>I am a Digital Junkie. Consume all kinds of new tech if it makes humankind better. I love neat UI designs and sharing knowledge. I develop with WordPress at Digital Blend Uganda Limited.</p>\n",
+        "author": 7694169,
+        "avatar_urls": {
+        "24": "https://secure.gravatar.com/avatar/736ce87f8465010471cae836e0f49f7e?s=24&d=mm&r=g",
+        "48": "https://secure.gravatar.com/avatar/736ce87f8465010471cae836e0f49f7e?s=48&d=mm&r=g",
+        "96": "https://secure.gravatar.com/avatar/736ce87f8465010471cae836e0f49f7e?s=96&d=mm&r=g"
+        },
+        "sessions": [
+        {
+        "embeddable": true,
+        "href": "https://2018.kampala.wordcamp.org/wp-json/wp/v2/sessions/280"
+        },
+        {
+        "embeddable": true,
+        "href": "https://2018.kampala.wordcamp.org/wp-json/wp/v2/sessions/282"
+        },
+        {
+        "embeddable": true,
+        "href": "https://2018.kampala.wordcamp.org/wp-json/wp/v2/sessions/285"
+        },
+        {
+        "embeddable": true,
+        "href": "https://2018.kampala.wordcamp.org/wp-json/wp/v2/sessions/300"
+        }
+        ]
+        }
+      ]
+      
+  }
 }
